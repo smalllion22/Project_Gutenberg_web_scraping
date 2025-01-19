@@ -1,7 +1,7 @@
 # project_gutenberg
 網路爬蟲 - 古騰堡計畫 抓取書名含中文的書籍
 
-# Project Gutenberg v1.0
+## 內容摘要
 爬取中文書籍，共 477 本。
 耗時 : 約 5分鐘
 
